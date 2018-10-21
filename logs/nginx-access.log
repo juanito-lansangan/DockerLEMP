@@ -1,0 +1,7 @@
+192.168.99.1 - - [21/Oct/2018:16:34:42 +0000] "GET / HTTP/1.1" 200 24209 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+192.168.99.1 - - [21/Oct/2018:16:34:42 +0000] "GET /robots.txt HTTP/1.1" 200 24140 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+192.168.99.1 - - [21/Oct/2018:16:34:47 +0000] "GET /favicon.ico HTTP/1.1" 200 24188 "http://192.168.99.100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+192.168.99.1 - - [21/Oct/2018:16:36:02 +0000] "GET / HTTP/1.1" 200 148 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+192.168.99.1 - - [21/Oct/2018:16:36:02 +0000] "GET /favicon.ico HTTP/1.1" 200 148 "http://192.168.99.100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+192.168.99.1 - - [21/Oct/2018:16:36:12 +0000] "GET / HTTP/1.1" 200 63 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+192.168.99.1 - - [21/Oct/2018:16:36:12 +0000] "GET /favicon.ico HTTP/1.1" 200 63 "http://192.168.99.100/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
